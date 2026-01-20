@@ -30,16 +30,16 @@ It allows librarians to manage library records, track members, and handle borrow
 ## Screenshots
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Books Management
-![Books](images/books.png)
-![Add Book](images/add_books.png)
-![Edit Book](images/edit_books.png)
-![All Books & Issued Books](images/all_books.png)
+![Books](books.png)
+![Add Book](add_books.png)
+![Edit Book](edit_books.png)
+![All Books & Issued Books](all_books.png)
 
 ### Payments
-![Payments](images/payment.png)
+![Payments](payment.png)
 
 ---
 
