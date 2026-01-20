@@ -29,10 +29,9 @@ It allows librarians to manage library records, track members, and handle borrow
 
 ## Technologies Used
 - **Programming Language:** C#  
-- **Database:** SQL Server / MySQL  
+- **Database:** SQL Server 
 - **IDE:** Visual Studio  
-- **Platform:** Windows Desktop Application  
-- **Other Tools:** Microsoft Office (for documentation and records)  
+- **Platform:** Windows Desktop Application   
 
 ---
 
